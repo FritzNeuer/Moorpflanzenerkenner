@@ -5,7 +5,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 
-MODEL_PFAD = r"G:\adrian\Schule\SF\Moorpflanzen_Modell_Final.keras"
+MODEL_PFAD = "Moorpflanzen_Modell_Final.keras"
 BILD_GROESSE = (180, 180)
 
 class_names = [
