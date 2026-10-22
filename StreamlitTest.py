@@ -2,7 +2,6 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.preprocessing import image
 import numpy as np
-import matplotlib.pyplot as plt
 import streamlit as st
 from PIL import Image
 
